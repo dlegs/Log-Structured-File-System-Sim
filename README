@@ -1,0 +1,6 @@
+Jared Rosenberg
+Dylan Leggio
+
+Things you should know:
+    - our initialize program takes about 5 seconds to complete
+    - our EXIT function takes about 2 seconds to complete (if writing in-memory segment to disk)
